@@ -1,4 +1,4 @@
-Give Trinus some print-bed lights on the cheap with a slightly modified [led, snake light from Amazon](https://www.amazon.com/iForaa-Gooseneck-Rechargeable-Adjustable-Grilling/dp/B01DO98VKE/).
+Give your Trinus some print-bed lights on the cheap with a slightly modified [led, snake light from Amazon](https://www.amazon.com/iForaa-Gooseneck-Rechargeable-Adjustable-Grilling/dp/B01DO98VKE/).
 
 ![image](https://cloud.githubusercontent.com/assets/1816471/23972259/7c825f76-09a7-11e7-91e6-9a27774879a8.png)
 
